@@ -1,0 +1,4 @@
+
+---
+
+This `README.md` provides a complete and detailed guide to setting up and using your project. It includes instructions for setting up MySQL, uploading the datasets, running SQL queries, and analyzing the data. This document will be helpful for others to understand the purpose and steps involved in the project.
